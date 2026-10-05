@@ -5,11 +5,11 @@
 A workspace for reviewing extracted vendor quotes alongside RFQ requests, vendor emails, and attachment text.
 
 
-## The issue
+## The quote review bottleneck
 
-Validating extracted data against the RFQ and vendor data is slow and difficult.
+Reviewers must cross-check extracted quote data against the RFQ request, vendor emails, and attachments to find missing or inconsistent values. That manual comparison slows down review and vendor follow-up.
 
-### Assumptions
+## Assumptions
 
 - The biggest bottleneck is time spent verifying each vendor's quote against the RFQ request.
 - RFQ submission and email services are assumed to be plugged into the broader workflow. This exercise simulates those actions locally.
