@@ -1,6 +1,9 @@
 # RFQ Desk
 
+[Live demo](https://fde-orcin.vercel.app/)
+
 A workspace for reviewing extracted vendor quotes alongside RFQ requests, vendor emails, and attachment text.
+
 
 ## The issue
 
